@@ -38,3 +38,8 @@ en:
       success: "Kitten record deleted."
     create:
       success: "Kitten record created!"
+  activerecord:
+    errors:
+      models:
+        kitten:
+          blank: "is missing. A kitten has a name."
