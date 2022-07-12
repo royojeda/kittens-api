@@ -31,3 +31,10 @@
 
 en:
   hello: "Hello world"
+  kittens:
+    update:
+      success: "Kitten details updated!"
+    destroy:
+      success: "Kitten record deleted."
+    create:
+      success: "Kitten record created!"
